@@ -3,3 +3,5 @@
 [user]
 	email = krappramiro@disroot.org
 	name = Krapp Ramiro
+[core]
+	excludesFile = ~/.gitignore
